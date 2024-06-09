@@ -1,6 +1,18 @@
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhashilyze&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:jsbae1023@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=round-square&logo=notion&logoColor=white)](https://plausible-hosta-271.notion.site/1fd3db2d0aed42c29c5849acfdcddbea)
+
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashilyze&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashilyze&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashilyze&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashilyze&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a> <br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashilyze&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 ## Beakjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hashilyze)](https://solved.ac/hashilyze/)
@@ -20,7 +32,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white")   
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-
- 
-# :mailbox_with_mail: Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:jsbae1023@gmail.com)
