@@ -10,10 +10,6 @@
     <a href="mailto:jsbae1023@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/>
     </a> &nbsp
-    <!--Portfolio-->
-    <a href="https://plausible-hosta-271.notion.site/1fd3db2d0aed42c29c5849acfdcddbea">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=round-square&logo=notion&logoColor=white"/>
-    </a>
 </div>
 
 ## GitHub Stats
